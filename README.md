@@ -1,2 +1,2 @@
 # OpticalPowerMeter
-High speed optical power meter.
+STM32 High speed optical power meter.
