@@ -17,6 +17,12 @@ Originally designed for sensitive event tracking (such as gang stalking document
 - 🌐 UTF-8 encoding for internationalization (e.g., Chinese characters)
 - 🧩 Offline and privacy-friendly — no internet access required
 
+## 📷 Screenshots
+
+![Screenshot 1](images/EvtLogger1.jpg)
+![Screenshot 2](images/EvtLogger2.jpg)
+![Screenshot 3](images/EvtLogger3.jpg)
+
 ## 📂 Data Format
 
 ### `events.json`
@@ -29,8 +35,3 @@ Each event entry:
   "longitude": 44.5126,
   "note": "Patient slipped near bathroom"
 }
-## 📷 Screenshots
-
-![Screenshot 1](images/EvtLogger1.jpg)
-![Screenshot 2](images/EvtLogger2.jpg)
-![Screenshot 3](images/EvtLogger3.jpg)
