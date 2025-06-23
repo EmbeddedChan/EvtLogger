@@ -29,3 +29,13 @@ Each event entry:
   "longitude": 44.5126,
   "note": "Patient slipped near bathroom"
 }
+## 📷 Screenshots
+
+**Main Event Logging Page**  
+![Screenshot 1](images/EvtLogger1.jpg)
+
+**Event Code Management**  
+![Screenshot 2](images/EvtLogger2.jpg)
+
+**Statistics View**  
+![Screenshot 3](images/EvtLogger3.jpg)
