@@ -1,7 +1,7 @@
 # EvtLogger
 
 **EvtLogger** is a lightweight Android application for logging and analyzing time-based events.  
-Originally designed for sensitive event tracking (such as gang stalking documentation or irregular medical incidents), it is also suitable for general-purpose event collection with customizable categories.
+Originally designed for sensitive event tracking (such as documentation or irregular medical incidents), it is also suitable for general-purpose event collection with customizable categories.
 
 ## ✨ Features
 
